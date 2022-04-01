@@ -15,42 +15,58 @@ import org.springframework.stereotype.Repository;
 
 import com.example.demo.dao.WorkerDAO;
 import com.example.demo.model.Worker;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 @Repository
 public class WorkerRepository implements WorkerDAO{
 		
 		@Autowired
 		JdbcTemplate jdbcTemplate;
+		private static final Logger log = LoggerFactory.getLogger(WorkerRepository.class);
 
-		public String add() throws SQLException {
 
-			int worker_id = 12;
-	        String first_name = "Kunal";
-	        String last_name = "Naikade";
-	        int salary = 8000;
+		public boolean add(Worker worker){
+
+			int worker_id = worker.getworkerId();
+	        String first_name = worker.getfirstName();
+	        String last_name = worker.getlastName();
+	        int salary = worker.getSalary();
 	        Date date = new Date();
-	        String department = "HR";
-	        String email = "kunal@gmail.com";
+	        String department = worker.getDepartment();
+	        String email = worker.getEmail();
 	        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 	        String joining_date = sdf.format(date);
 	        String query = String.format("INSERT INTO worker VALUES(%d,'%s','%s',%d,'%s','%s','%s');", worker_id,
 	                first_name,
 	                last_name, salary, joining_date, department, email);
 
-	        
-			jdbcTemplate.execute(query);
-			return "Record Added";
+	        try {
+	        	jdbcTemplate.execute(query);
+	        	return true;
+	        }catch(Exception e) {
+	        	return false;
+	        }
+			
+			
 
 	    }
 
-	    public String delete() throws SQLException {
+	    public boolean delete(int id)  {
 	    	 String query = "DELETE FROM worker WHERE worker_id=12";
-	         jdbcTemplate.update(query);
-			return "Record Deleted";
+	    	 
+	    	 try {
+	    		 jdbcTemplate.update(query);
+	    		 return true;
+	    	 }catch(Exception e) {
+	    		 return false;
+	    	 }
+	         
+			
 	    }
 
-	    public List<Worker> getWorker() throws SQLException {
-	    	String query = "SELECT * FROM worker WHERE worker_id=1";
+	    public List<Worker> getWorker(int id) throws SQLException {
+	    	String query = String.format("SELECT * FROM worker WHERE worker_id=%d",id);
         
 	        return jdbcTemplate.query(query,new RowMapper<Worker>(){  
 	            @Override  
@@ -86,31 +102,22 @@ public class WorkerRepository implements WorkerDAO{
 	            });  
 	    }
 
-	    public String update() throws SQLException {
+	    public boolean update(int id) {
 
-	    	int workerId = 12;
-	        String firstName = "omkar";
-	        String lastName = "naikade";
-	        int salary = 5000;
-	        Date date = new Date();
-	        String department = "HR";
 	        String email = "mfs.akash@gmail.com";
-	        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-	        String joiningDate = sdf.format(date);
 	        String query = String.format("""
 	                UPDATE worker SET
-	                worker_id =%d,
-	                first_name = '%s',
-	                last_name ='%s',
-	                salary =%d,
-	                joining_date = '%s',
-	                department = '%s',
 	                email = '%s'
-	                WHERE worker_id = %d """, workerId,
-	                firstName,
-	                lastName, salary, joiningDate, department, email, workerId);
-	        jdbcTemplate.update(query);
-	        return "Record Updated!";
+	                WHERE worker_id = %d """, email, id);
+	        
+	        try {
+	        	jdbcTemplate.update(query);
+	        	return true;
+	        }catch(Exception e) {
+	        	return false;
+	        }
+	        
+	        
 	    }
 }
 

@@ -4,7 +4,12 @@ import java.sql.SQLException;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PatchMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -18,29 +23,29 @@ public class WorkerController {
 	@Autowired
 	WorkerRepository repository;
 	
-	@GetMapping("/showWorker")
-	public List<Worker> getWorker() throws SQLException {
-		return repository.getWorker();
+	@GetMapping("/:{id}")
+	public List<Worker> getWorker(@PathVariable("id") int id) throws SQLException {
+		return repository.getWorker(id);
 	}
 	
-	@GetMapping("/all/showWorkers")
+	@GetMapping("/all")
 	public List<Worker> getWorkers() throws SQLException {
 		return repository.getWorkers();
 	}
 	
-	@GetMapping("/create")
-	public String createWorker() throws SQLException {
-		return repository.add();
+	@PostMapping("/create")
+	public boolean createWorker(@RequestBody Worker worker) throws SQLException {
+		return repository.add(worker);
 	}
 	
-	@GetMapping("/update")
-	public String updateWorker() throws SQLException {
-		return repository.update();
+	@PatchMapping("/update/:{id}")
+	public boolean updateWorker(@PathVariable int id,@RequestBody Worker worker) throws SQLException {
+		return repository.update(id);
 	}
 	
-	@GetMapping("/delete")
-	public String deleteWorker() throws SQLException {
-		return repository.delete();
+	@DeleteMapping("/delete/:{id}")
+	public boolean deleteWorker(@PathVariable int id) throws SQLException {
+		return repository.delete(id);
 	}
 }
 

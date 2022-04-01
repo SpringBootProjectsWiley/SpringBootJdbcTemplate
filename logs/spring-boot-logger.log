@@ -1,0 +1,481 @@
+2022-04-01 11:51:25,226 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12084 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 11:51:25,232 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 11:51:25,363 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-01 11:51:25,364 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-01 11:51:29,103 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 11:51:29,125 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 11:51:29,126 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 11:51:29,126 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 11:51:29,295 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 11:51:29,296 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 3929 ms
+2022-04-01 11:51:31,272 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 11:51:31,293 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 11:51:31,430 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 11:51:31,522 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 11:51:31,590 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 7.49 seconds (JVM running for 10.621)
+2022-04-01 11:51:32,042 INFO org.apache.juli.logging.DirectJDKLog [RMI TCP Connection(5)-127.0.0.1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-01 11:51:32,043 INFO org.springframework.web.servlet.FrameworkServlet [RMI TCP Connection(5)-127.0.0.1] Initializing Servlet 'dispatcherServlet'
+2022-04-01 11:51:32,046 INFO org.springframework.web.servlet.FrameworkServlet [RMI TCP Connection(5)-127.0.0.1] Completed initialization in 2 ms
+2022-04-01 12:07:02,397 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(23)-127.0.0.1] Application shutdown requested.
+2022-04-01 13:26:05,313 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 13:26:05,316 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 13:26:05,464 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-01 13:26:05,465 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-01 13:26:08,333 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 13:26:08,351 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 13:26:08,353 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 13:26:08,354 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 13:26:08,518 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 13:26:08,519 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 3051 ms
+2022-04-01 13:26:10,351 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 13:26:10,360 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 13:26:10,425 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 13:26:10,467 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 13:26:10,501 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 6.092 seconds (JVM running for 8.125)
+2022-04-01 13:26:11,244 INFO org.apache.juli.logging.DirectJDKLog [RMI TCP Connection(3)-127.0.0.1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-01 13:26:11,245 INFO org.springframework.web.servlet.FrameworkServlet [RMI TCP Connection(3)-127.0.0.1] Initializing Servlet 'dispatcherServlet'
+2022-04-01 13:26:11,249 INFO org.springframework.web.servlet.FrameworkServlet [RMI TCP Connection(3)-127.0.0.1] Completed initialization in 4 ms
+2022-04-01 13:28:11,146 INFO com.zaxxer.hikari.HikariDataSource [http-nio-8080-exec-6] HikariPool-1 - Starting...
+2022-04-01 13:28:11,840 INFO com.zaxxer.hikari.HikariDataSource [http-nio-8080-exec-6] HikariPool-1 - Start completed.
+2022-04-01 13:57:31,311 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown initiated...
+2022-04-01 13:57:31,330 INFO com.zaxxer.hikari.HikariDataSource [Thread-5] HikariPool-1 - Shutdown completed.
+2022-04-01 13:57:31,666 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 13:57:31,666 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 13:57:32,391 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 13:57:32,393 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 13:57:32,393 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 13:57:32,394 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 13:57:32,421 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 13:57:32,422 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 746 ms
+2022-04-01 13:57:32,946 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 13:57:32,952 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 13:57:32,975 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 13:57:32,981 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 13:57:33,004 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.471 seconds (JVM running for 1890.628)
+2022-04-01 13:57:33,012 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 13:58:09,006 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 13:58:09,007 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 13:58:09,769 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 13:58:09,770 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 13:58:09,770 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 13:58:09,771 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 13:58:09,814 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 13:58:09,814 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 746 ms
+2022-04-01 13:58:10,160 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 13:58:10,165 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 13:58:10,191 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 13:58:10,197 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 13:58:10,213 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.402 seconds (JVM running for 1927.836)
+2022-04-01 13:58:10,217 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 13:58:26,288 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-01 13:58:26,289 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-04-01 13:58:26,291 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 2 ms
+2022-04-01 13:58:54,256 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 13:58:54,257 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 13:58:54,819 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 13:58:54,821 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 13:58:54,821 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 13:58:54,821 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 13:58:54,851 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 13:58:54,851 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 589 ms
+2022-04-01 13:58:55,218 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 13:58:55,224 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 13:58:55,246 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 13:58:55,251 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 13:58:55,269 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.072 seconds (JVM running for 1972.894)
+2022-04-01 13:58:55,275 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 13:58:58,268 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-01 13:58:58,268 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-04-01 13:58:58,271 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 2 ms
+2022-04-01 13:59:02,621 INFO com.zaxxer.hikari.HikariDataSource [http-nio-8080-exec-3] HikariPool-2 - Starting...
+2022-04-01 13:59:02,663 INFO com.zaxxer.hikari.HikariDataSource [http-nio-8080-exec-3] HikariPool-2 - Start completed.
+2022-04-01 13:59:50,435 INFO com.zaxxer.hikari.HikariDataSource [Thread-15] HikariPool-2 - Shutdown initiated...
+2022-04-01 13:59:50,447 INFO com.zaxxer.hikari.HikariDataSource [Thread-15] HikariPool-2 - Shutdown completed.
+2022-04-01 13:59:50,698 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 13:59:50,699 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 13:59:51,328 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 13:59:51,329 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 13:59:51,330 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 13:59:51,330 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 13:59:51,354 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 13:59:51,354 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 649 ms
+2022-04-01 13:59:51,726 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 13:59:51,735 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 13:59:51,768 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 13:59:51,777 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 13:59:51,798 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.212 seconds (JVM running for 2029.422)
+2022-04-01 13:59:51,802 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:00:00,933 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-01 14:00:00,933 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-04-01 14:00:00,935 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 1 ms
+2022-04-01 14:00:00,951 INFO com.zaxxer.hikari.HikariDataSource [http-nio-8080-exec-2] HikariPool-3 - Starting...
+2022-04-01 14:00:00,990 INFO com.zaxxer.hikari.HikariDataSource [http-nio-8080-exec-2] HikariPool-3 - Start completed.
+2022-04-01 14:00:56,474 INFO com.zaxxer.hikari.HikariDataSource [Thread-19] HikariPool-3 - Shutdown initiated...
+2022-04-01 14:00:56,485 INFO com.zaxxer.hikari.HikariDataSource [Thread-19] HikariPool-3 - Shutdown completed.
+2022-04-01 14:00:56,625 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:00:56,626 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:00:57,237 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:00:57,238 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:00:57,239 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:00:57,239 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:00:57,263 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:00:57,263 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 633 ms
+2022-04-01 14:00:57,662 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:00:57,671 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:00:57,689 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:00:57,696 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:00:57,706 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.138 seconds (JVM running for 2095.33)
+2022-04-01 14:00:57,708 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:02:15,328 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:02:15,329 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:02:16,240 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:02:16,241 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:02:16,242 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:02:16,243 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:02:16,274 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:02:16,275 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 941 ms
+2022-04-01 14:02:16,902 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:02:16,909 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:02:16,930 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:02:16,936 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:02:16,952 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.682 seconds (JVM running for 2174.576)
+2022-04-01 14:02:16,958 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:03:02,286 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:03:02,286 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:03:03,123 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:03:03,125 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:03:03,130 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:03:03,134 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:03:03,180 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:03:03,180 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 889 ms
+2022-04-01 14:03:03,604 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:03:03,611 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:03:03,635 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:03:03,643 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:03:03,657 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.457 seconds (JVM running for 2221.281)
+2022-04-01 14:03:03,662 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:03:05,183 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:03:05,184 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:03:05,708 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:03:05,709 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:03:05,710 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:03:05,711 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:03:05,734 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:03:05,734 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 547 ms
+2022-04-01 14:03:06,115 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:03:06,121 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:03:06,145 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:03:06,155 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:03:06,181 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.037 seconds (JVM running for 2223.804)
+2022-04-01 14:03:06,185 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:03:53,823 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:03:53,823 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:03:54,783 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:03:54,785 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:03:54,787 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:03:54,787 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:03:54,813 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:03:54,814 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 989 ms
+2022-04-01 14:03:55,265 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:03:55,273 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:03:55,293 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:03:55,299 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:03:55,320 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.558 seconds (JVM running for 2272.943)
+2022-04-01 14:03:55,323 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:04:03,501 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:04:03,501 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:04:04,062 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:04:04,063 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:04:04,064 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:04:04,064 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:04:04,085 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:04:04,085 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 581 ms
+2022-04-01 14:04:04,465 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:04:04,470 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:04:04,505 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:04:04,512 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:04:04,528 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.077 seconds (JVM running for 2282.152)
+2022-04-01 14:04:04,531 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:04:13,954 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:04:13,955 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:04:14,515 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:04:14,516 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:04:14,517 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:04:14,517 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:04:14,543 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:04:14,543 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 582 ms
+2022-04-01 14:04:14,891 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:04:14,899 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:04:14,924 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:04:14,932 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:04:14,948 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.045 seconds (JVM running for 2292.572)
+2022-04-01 14:04:14,953 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:04:45,885 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:04:45,886 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:04:46,440 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:04:46,441 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:04:46,442 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:04:46,442 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:04:46,475 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:04:46,475 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 587 ms
+2022-04-01 14:04:46,868 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:04:46,874 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:04:46,892 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:04:46,899 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:04:46,918 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.092 seconds (JVM running for 2324.542)
+2022-04-01 14:04:46,921 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:07:26,371 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-01 14:07:26,372 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-04-01 14:07:26,376 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 4 ms
+2022-04-01 14:07:26,451 INFO com.zaxxer.hikari.HikariDataSource [http-nio-8080-exec-2] HikariPool-4 - Starting...
+2022-04-01 14:07:26,501 INFO com.zaxxer.hikari.HikariDataSource [http-nio-8080-exec-2] HikariPool-4 - Start completed.
+2022-04-01 14:07:36,360 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8080-exec-3] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2022-04-01 14:09:22,946 INFO com.zaxxer.hikari.HikariDataSource [Thread-51] HikariPool-4 - Shutdown initiated...
+2022-04-01 14:09:22,952 INFO com.zaxxer.hikari.HikariDataSource [Thread-51] HikariPool-4 - Shutdown completed.
+2022-04-01 14:09:23,086 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:09:23,087 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:09:23,705 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:09:23,705 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:09:23,706 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:09:23,706 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:09:23,734 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:09:23,734 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 642 ms
+2022-04-01 14:09:24,139 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:09:24,149 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:09:24,170 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:09:24,176 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:09:24,189 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.161 seconds (JVM running for 2601.813)
+2022-04-01 14:09:24,193 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:09:27,509 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:09:27,509 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:09:28,196 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:09:28,200 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:09:28,202 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:09:28,203 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:09:28,248 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:09:28,248 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 734 ms
+2022-04-01 14:09:28,660 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:09:28,673 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:09:28,732 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:09:28,738 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:09:28,769 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.453 seconds (JVM running for 2606.393)
+2022-04-01 14:09:28,777 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:10:19,760 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:10:19,761 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:10:20,477 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:10:20,478 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:10:20,479 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:10:20,480 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:10:20,567 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:10:20,567 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 801 ms
+2022-04-01 14:10:20,667 WARN org.springframework.context.support.AbstractApplicationContext [restartedMain] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'workerController': Unsatisfied dependency expressed through field 'repository'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'workerRepository': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.example.demo.repository.WorkerRepository] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@3f3e737e]
+2022-04-01 14:10:20,668 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Stopping service [Tomcat]
+2022-04-01 14:10:20,690 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [restartedMain] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-01 14:10:20,743 ERROR org.springframework.boot.SpringApplication [restartedMain] Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'workerController': Unsatisfied dependency expressed through field 'repository'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'workerRepository': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.example.demo.repository.WorkerRepository] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@3f3e737e]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:659)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:639)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1431)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:619)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.example.demo.SpringBootJdbcTemplateApplication.main(SpringBootJdbcTemplateApplication.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'workerRepository': Lookup method resolution failed; nested exception is java.lang.IllegalStateException: Failed to introspect Class [com.example.demo.repository.WorkerRepository] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@3f3e737e]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:289)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1302)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1219)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1389)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1309)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:656)
+	... 25 common frames omitted
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.example.demo.repository.WorkerRepository] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@3f3e737e]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:485)
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:321)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:267)
+	... 37 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: booelan
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3402)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2504)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:467)
+	... 39 common frames omitted
+Caused by: java.lang.ClassNotFoundException: booelan
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:145)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	... 43 common frames omitted
+2022-04-01 14:10:24,632 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:10:24,633 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:10:25,212 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:10:25,213 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:10:25,213 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:10:25,213 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:10:25,237 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:10:25,238 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 599 ms
+2022-04-01 14:10:25,611 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:10:25,617 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:10:25,635 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:10:25,641 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:10:25,654 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.073 seconds (JVM running for 2663.277)
+2022-04-01 14:10:25,656 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:10:30,718 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:10:30,719 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:10:31,330 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:10:31,331 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:10:31,331 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:10:31,331 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:10:31,355 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:10:31,355 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 632 ms
+2022-04-01 14:10:31,643 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:10:31,649 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:10:31,676 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:10:31,682 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:10:31,704 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.032 seconds (JVM running for 2669.328)
+2022-04-01 14:10:31,709 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:11:55,447 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:11:55,448 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:11:56,355 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:11:56,356 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:11:56,357 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:11:56,358 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:11:56,382 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:11:56,382 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 929 ms
+2022-04-01 14:11:56,819 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:11:56,825 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:11:56,851 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:11:56,857 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:11:56,881 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.537 seconds (JVM running for 2754.505)
+2022-04-01 14:11:56,891 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:12:24,976 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:12:24,976 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:12:25,609 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:12:25,610 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:12:25,610 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:12:25,610 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:12:25,635 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:12:25,635 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 654 ms
+2022-04-01 14:12:25,989 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:12:25,993 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:12:26,013 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:12:26,018 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:12:26,030 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.096 seconds (JVM running for 2783.654)
+2022-04-01 14:12:26,034 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:12:43,834 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-01 14:12:43,835 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-04-01 14:12:43,838 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 2 ms
+2022-04-01 14:12:43,839 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8080-exec-2] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PATCH' not supported]
+2022-04-01 14:12:52,375 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8080-exec-3] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'PATCH' not supported]
+2022-04-01 14:14:05,276 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:14:05,276 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:14:06,057 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:14:06,058 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:14:06,058 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:14:06,059 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:14:06,087 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:14:06,087 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 808 ms
+2022-04-01 14:14:06,552 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:14:06,557 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:14:06,587 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:14:06,594 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:14:06,607 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.417 seconds (JVM running for 2884.231)
+2022-04-01 14:14:06,611 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:14:47,377 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:14:47,378 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:14:47,998 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:14:47,999 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:14:48,000 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:14:48,000 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:14:48,025 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:14:48,025 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 643 ms
+2022-04-01 14:14:48,394 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:14:48,401 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:14:48,434 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:14:48,440 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:14:48,456 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.128 seconds (JVM running for 2926.08)
+2022-04-01 14:14:48,458 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:15:36,912 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:15:36,913 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:15:37,646 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:15:37,648 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:15:37,649 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:15:37,650 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:15:37,681 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:15:37,681 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 765 ms
+2022-04-01 14:15:38,050 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:15:38,056 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:15:38,089 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:15:38,104 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:15:38,116 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.263 seconds (JVM running for 2975.74)
+2022-04-01 14:15:38,119 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:15:42,020 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:15:42,020 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:15:42,682 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:15:42,690 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:15:42,691 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:15:42,691 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:15:42,721 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:15:42,721 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 698 ms
+2022-04-01 14:15:43,175 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:15:43,186 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:15:43,235 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:15:43,242 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:15:43,258 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.299 seconds (JVM running for 2980.882)
+2022-04-01 14:15:43,269 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:15:55,771 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-01 14:15:55,772 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-04-01 14:15:55,778 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 5 ms
+2022-04-01 14:15:55,787 INFO com.zaxxer.hikari.HikariDataSource [http-nio-8080-exec-2] HikariPool-5 - Starting...
+2022-04-01 14:15:55,827 INFO com.zaxxer.hikari.HikariDataSource [http-nio-8080-exec-2] HikariPool-5 - Start completed.
+2022-04-01 14:17:31,835 INFO com.zaxxer.hikari.HikariDataSource [Thread-94] HikariPool-5 - Shutdown initiated...
+2022-04-01 14:17:31,844 INFO com.zaxxer.hikari.HikariDataSource [Thread-94] HikariPool-5 - Shutdown completed.
+2022-04-01 14:17:32,035 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting SpringBootJdbcTemplateApplication using Java 17.0.2 on DESKTOP-TO522J7 with PID 12252 (C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate\target\classes started by Lenovo in C:\Users\Lenovo\eclipse-workspace\springBootJdbcTemplate)
+2022-04-01 14:17:32,037 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-04-01 14:17:32,834 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-04-01 14:17:32,836 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:17:32,837 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-04-01 14:17:32,838 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-01 14:17:32,863 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-04-01 14:17:32,864 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 816 ms
+2022-04-01 14:17:33,387 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-04-01 14:17:33,434 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2022-04-01 14:17:33,562 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-04-01 14:17:33,574 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-01 14:17:33,594 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started SpringBootJdbcTemplateApplication in 1.637 seconds (JVM running for 3091.219)
+2022-04-01 14:17:33,601 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-04-01 14:18:28,115 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-3] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-01 14:18:28,115 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-3] Initializing Servlet 'dispatcherServlet'
+2022-04-01 14:18:28,117 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-3] Completed initialization in 1 ms
+2022-04-01 14:18:37,772 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8080-exec-2] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; nested exception is java.lang.NumberFormatException: For input string: "id"]
+2022-04-01 14:18:51,395 INFO com.zaxxer.hikari.HikariDataSource [http-nio-8080-exec-6] HikariPool-6 - Starting...

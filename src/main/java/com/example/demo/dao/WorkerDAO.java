@@ -6,14 +6,14 @@ import java.util.List;
 import com.example.demo.model.Worker;
 
 public interface WorkerDAO {
-	public String add() throws SQLException;
+	public boolean add(Worker worker) throws SQLException;
 
-    public String delete() throws SQLException;
+    public boolean delete(int id) throws SQLException;
 
-    public List<Worker> getWorker() throws SQLException;
+    public List<Worker> getWorker(int id) throws SQLException;
 
     public List<Worker> getWorkers() throws SQLException;
 
-    public String update() throws SQLException;
+    public boolean update(int id) throws SQLException;
 }
 
